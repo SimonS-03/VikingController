@@ -6,3 +6,6 @@ immutabledict
 networkx
 scikit-fuzzy
 scipy
+packaging
+bresenham
+matplotlib

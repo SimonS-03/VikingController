@@ -1,0 +1,9 @@
+numpy
+pillow
+inputs
+mypy
+immutabledict
+networkx
+scikit-fuzzy
+scipy
+sympy
