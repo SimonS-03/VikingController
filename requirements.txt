@@ -1,0 +1,11 @@
+numpy
+pillow
+inputs
+mypy
+immutabledict
+networkx
+scikit-fuzzy
+scipy
+packaging
+bresenham
+matplotlib
